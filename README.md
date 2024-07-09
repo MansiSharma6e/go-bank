@@ -1,4 +1,4 @@
-# GopherBank: Backend Web Service for Banking Operations
+# GoBank: Backend Web Service for Banking Operations
 
 ## Introduction
 

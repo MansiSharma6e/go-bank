@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Welcome to GopherBank, a comprehensive backend web service developed in Golang. This project provides APIs for managing bank accounts, recording balance changes, and facilitating money transfers between accounts.
+Welcome to Go Bank, a comprehensive backend web service developed in Golang. This project provides APIs for managing bank accounts, recording balance changes, and facilitating money transfers between accounts.
 
 Note: Development is in progress...
 
